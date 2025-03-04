@@ -4,7 +4,7 @@ module.exports = {
   TOKEN: "",
   language: "en",
   ownerID: ["1004206704994566164", ""], 
-  mongodbUri : "mongodb+srv://shivashiva@musicbotyt.ouljyww.mongodb.net/?retryWhites truest majority",
+  mongodbUri : "mongodb+srv://shivashiva@musicbotyt.ouljyww.mongodb.net/?retryWhites=true&w=majority",
   setupFilePath: './commands/setup.json',
   commandsDir: './commands',  
   embedColor: "#1db954",
